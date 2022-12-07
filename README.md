@@ -6,7 +6,7 @@
 
 ### Curso de JavaScript na Web: armazenando dados no navegador
 
-####Objetivos :
+#### Objetivos :
 
 ✓ Interação da página com LocalStorege;
 ✓ Criar objetos com JavaScript
@@ -15,6 +15,6 @@
 
 <img width="1437" alt="Captura de Tela 2022-12-07 às 20 19 23" src="https://user-images.githubusercontent.com/104286173/206318307-a345c60f-2be2-49d3-852b-390a130ffb94.png">
 
-####Como visualizar o projeto?
+#### Como visualizar o projeto?
 
 Clicar o icone "Code" ==> "Download ZIP" ==> Abrir arquivo "Index.html"
