@@ -9,11 +9,16 @@
 #### Objetivos :
 
 ✓ Interação da página com LocalStorege;
-✓ Criar objetos com JavaScript
-✓ Registrar dados no LocalStorage
-✓ Implemente páginas WEB que armazenam dados
 
-<img width="1437" alt="Captura de Tela 2022-12-07 às 20 19 23" src="https://user-images.githubusercontent.com/104286173/206318307-a345c60f-2be2-49d3-852b-390a130ffb94.png"#vitrinedev>
+✓ Criar objetos com JavaScript;
+
+✓ Registrar dados no LocalStorage;
+
+✓ Implemente páginas WEB que armazenam dados.
+
+
+![screencapture-file-Users-gabrielkanda-Desktop-mochila-de-viagem-fd4059289a9aa21c767ee923817968460b666454-index-html-2022-12-26-22_58_28](https://user-images.githubusercontent.com/104286173/209599180-22ca2ca9-c9e0-40d1-a6ea-7f7717d6ca5e.png#vitrinedev)
+
 
 #### Como visualizar o projeto?
 
